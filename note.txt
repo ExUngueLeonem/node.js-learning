@@ -1,0 +1,5 @@
+tutorial Создание веб-сервера в Node.js с помощью модуля HTTP
+https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module-ru
+
+How To Troubleshoot Common HTTP Error Codes
+https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-http-error-codes
